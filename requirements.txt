@@ -1,0 +1,7 @@
+opencv_python==3.3.0.10
+PyAutoGUI==0.9.36
+tensorflow==1.4.0
+Keras==2.0.9
+python_osc==1.6.3
+numpy==1.14.1
+Pillow==5.0.0
